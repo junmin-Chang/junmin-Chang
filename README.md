@@ -1,6 +1,8 @@
 ### Hello 👋
 <div align=center>
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzzsza)](https://hits.seeyoufarm.com)
-  </div>
+  ## 국민대학교 전자공학부 전자시스템공학과 20학번 장준민
+  ## 요즘 공부하는 것: 앱 개발(코틀린), 프론트엔드 개발자 지망생, 백엔드도 공부할 것
+  # 즉 다 하고싶다 군대는 가기 싫다.
+ </div>
 
                                                      
