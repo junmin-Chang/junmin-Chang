@@ -1,5 +1,5 @@
 # Hello 👋
-## 💕Swift & Kotlin💕
+## Swift & Kotlin
 ### KMU EE 20 🖕🖕🏻🖕🏼🖕🏽🖕🏾🖕🏿 
 ### STUDY HARD ✍🏼
 ### 🤬🤬🤬🤬🤬🤬🤬
