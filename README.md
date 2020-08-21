@@ -1,4 +1,5 @@
 # Hello 👋
+### age : 20
 ## Swift & Kotlin & Flutter(Dart) (Mobile Application)
 ### KMU EE 20 
 ### STUDY HARD ✍🏼
