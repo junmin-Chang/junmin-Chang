@@ -10,5 +10,4 @@
 
 
 개인 블로그
-https://z00mni-log.netlify.app/
-
+https://www.z00mni.com/
